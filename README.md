@@ -1,73 +1,77 @@
-# Welcome to My GitHub Profile
+<h1 align="center">Hi 👋🏼, I'm Wil</h1>
+<h5 align="center">
+  Software developer with 6+ years of experience, focused on creating solutions and delivering quality results in projects.
+</h5>
 
-## About Me
+## What I Do
+- **Backend Development:** Building robust APIs and services.
+- **Frontend Development:** Crafting responsive and interactive user interfaces.
+- **DevOps:** Automating deployments and ensuring reliable, scalable systems.
 
-I am a seasoned software developer with extensive experience in various areas of software engineering, including API and services development, web application development, database administration, automation and version control, security and authentication, monitoring and logging, deployment and DevOps, Linux administration, server management, agile methodologies, and leadership. Below is a detailed overview of my skills and experiences.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/bennyrock20/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
-## Skills and Experience
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+ <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
 
-### API and Services Development
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
 
-- **RESTful APIs**: Designed and implemented RESTful APIs for mobile apps with JSON data exchange.
-- **Django Rest Framework**: Created RESTful APIs utilizing Django Rest Framework for integration with mobile apps.
-- **Third-party Integrations**: Integrated third-party services such as Stripe, Sendgrid, and AWS S3 into existing web applications using Python libraries.
-- **Real-time Messaging**: Developed real-time messaging solutions using websockets technology integrated with RabbitMQ message broker service.
-
-### Web Application Development
-
-- **User Interfaces**: Collaborated with UX and UI designers to create intuitive user interfaces for web applications.
-- **React.js and Redux**: Created an interactive user interface with React.js and Redux.
-- **TDD Methodology**: Developed high-quality software solutions with full test coverage utilizing TDD methodology.
-- **Software Architecture**: Analyzed system requirements and developed software architecture specifications to meet customer needs.
-
-### Database Administration
-
-- **PostgreSQL**: Configured PostgreSQL databases to store data from Django models and optimized queries for maximum efficiency.
-- **Database Design**: Designed database schemas based on object-oriented principles using PostgreSQL or MySQL databases.
-
-### Automation and Version Control
-
-- **Scripting**: Wrote custom scripts in Bash, Python, and JavaScript to automate routine tasks.
-- **Git**: Managed source control systems such as Git to ensure version control of projects.
-- **GitLab**: Managed source code repositories by creating branches and merging pull requests.
-- **Best Practices**: Implemented best practices for software engineering processes such as version control, code review, issue tracking, deployment automation, and continuous integration and delivery.
-
-### Security and Authentication
-
-- **OAuth2.0 and JWT**: Built secure authentication systems using OAuth2.0 protocols and JWT tokens to ensure user data privacy.
-
-### Monitoring and Logging
-
-- **ELK Stack**: Set up logging systems using ELK stack components like Elasticsearch, Logstash, and Kibana for monitoring application health metrics.
-
-### Deployment and DevOps
-
-- **Kubernetes**: Configured Kubernetes clusters for deploying containerized applications across multiple nodes.
-- **CI/CD Pipelines**: Designed and maintained CI/CD pipelines using GitLab CI for continuous integration and delivery of software applications.
-- **Docker**: Utilized Docker and Docker Compose to containerize applications and manage multi-container setups efficiently.
-- **Docker Environments**: Configured and managed Docker environments to streamline the development and deployment processes.
-
-### Linux Administration
-
-- **Service Management**: Managed services on Linux systems, primarily Fedora and CentOS, using systemd.
-- **Server Configuration**: Configured and maintained servers and applications on Fedora and CentOS environments.
-- **Remote Access**: Utilized SSH for secure remote access and administration of servers.
-- **Vim**: Proficient in using Vim for editing and managing configuration files and code.
-- **Linux Tools**: Leveraged a wide range of Linux tools for system administration and development tasks.
-
-### Server Management
-
-- **NGINX**: Managed and configured NGINX servers for efficient web traffic handling.
-- **Database Administration**: Administered PostgreSQL and MySQL databases, ensuring optimal performance and reliability.
-- **Redis and RabbitMQ**: Configured and maintained Redis for caching and RabbitMQ for message brokering.
-
-### Agile Methodologies and Leadership
-
-- **Agile Methodology**: Utilized Agile methodology throughout the entire product life cycle from concept through delivery.
-- **Technical Guidance**: Provided technical guidance to junior development team members on complex projects.
-- **Mentoring**: Mentored junior developers on best practices in software development, code review, and debugging techniques.
-
-### Troubleshooting and Maintenance
-
-- **Bug Resolution**: Troubleshot bugs in production code and resolved them efficiently.
-
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+ 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+    <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="gitlab ci" width="40" height="40"/>
+    </a>
+</p>
